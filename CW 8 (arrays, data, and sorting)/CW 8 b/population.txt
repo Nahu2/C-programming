@@ -1,0 +1,14 @@
+China 1420.06
+India 1368.74
+USA 329.09
+Brazil 212.39
+Nigeria 200.96
+Russia 143.90
+Mexico 132.33
+Japan 126.85
+Philippines 108.11
+Egypt 101.17
+Vietnam 97.43
+DRC 86.73
+Germany 82.44
+Thailand 69.31
